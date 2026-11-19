@@ -1,0 +1,41 @@
+leccionId,titulo,descripcion,duracionMin,numero
+1,Instalación y entorno de desarrollo,Configura Python y tu editor de código.,12,1
+2,Variables y tipos de datos,"Números, cadenas, listas y diccionarios.",18,2
+3,Condicionales y ciclos,"if, for y while en la práctica.",20,1
+4,Funciones y módulos,Reutiliza código con funciones y módulos.,22,2
+5,"let, const y tipos de datos",Declaración de variables y tipos primitivos.,15,1
+6,Funciones flecha y closures,Sintaxis moderna de funciones y alcance.,20,2
+7,Promesas y async/await,Manejo de operaciones asíncronas.,25,1
+8,Manipulación del DOM,Selecciona y modifica elementos de la página.,22,2
+9,Documentos y colecciones,Estructura de datos en MongoDB.,14,1
+10,Operaciones CRUD,"Insertar, consultar, actualizar y eliminar.",24,2
+11,Pipeline de agregación,"Etapas $match, $group y $project.",28,1
+12,Índices y rendimiento,Crea índices y analiza consultas.,19,2
+13,¿Qué es la ciencia de datos?,Panorama general y casos de uso.,10,1
+14,Limpieza de datos,"Valores nulos, duplicados y formatos.",21,2
+15,Estadística descriptiva,"Media, mediana y dispersión.",23,1
+16,Visualización con gráficos,Elige el gráfico adecuado para tus datos.,17,2
+17,Supervised vs unsupervised learning,Main families of learning algorithms.,16,1
+18,Model evaluation metrics,"Accuracy, precision, recall and F1.",20,2
+19,Decision trees and ensembles,Random forests and boosting.,26,1
+20,Neural networks basics,"Layers, activations and training.",30,2
+21,Embudo de conversión,Etapas del embudo y métricas clave.,15,1
+22,Redes sociales y contenido,Planifica contenido para cada canal.,18,2
+23,Investigación de usuarios,"Entrevistas, encuestas y personas.",20,1
+24,Prototipado en baja fidelidad,Wireframes y flujos de navegación.,24,2
+25,Análisis FODA,"Fortalezas, oportunidades, debilidades y amenazas.",14,1
+26,Modelo de negocio Canvas,Diseña tu propuesta de valor.,22,2
+27,Presupuesto mensual,Controla ingresos y gastos.,13,1
+28,Ahorro e inversión básica,Primeros pasos para invertir.,19,2
+29,Writing professional emails,"Structure, tone and useful phrases.",14,1
+30,Meetings and presentations,Vocabulary for leading and joining meetings.,21,2
+31,Tipos de amenazas,"Phishing, malware y ransomware.",16,1
+32,Buenas prácticas de contraseñas,Gestores de contraseñas y doble factor.,12,2
+33,Modelo OSI y TCP/IP,Capas y protocolos principales.,22,1
+34,Direccionamiento IP,"IPv4, máscaras y subredes.",25,2
+35,Límites y continuidad,Concepto de límite y casos comunes.,27,1
+36,Reglas de derivación,"Producto, cociente y regla de la cadena.",29,2
+37,Exposição e abertura,Triângulo de exposição na prática.,18,1
+38,Composição e enquadramento,Regra dos terços e linhas guia.,15,2
+39,Priorización con Eisenhower,Importante vs urgente.,11,1
+40,Técnica Pomodoro,Trabaja en bloques de concentración.,13,2

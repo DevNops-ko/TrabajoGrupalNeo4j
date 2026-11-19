@@ -1,0 +1,16 @@
+cursoId,titulo,descripcion,nivel,anioPublicacion,calificacionPromedio
+1,Fundamentos de Python,"Aprende a programar desde cero con Python: sintaxis, estructuras de control y funciones.",Básico,2021,3.3
+2,JavaScript Moderno,"Domina JavaScript ES6+, programación asíncrona y manipulación del DOM.",Intermedio,2022,3.8
+3,Bases de Datos con MongoDB,"Modelado documental, consultas CRUD y agregaciones en MongoDB.",Intermedio,2023,4.0
+4,Introducción a la Ciencia de Datos,"Conceptos básicos, limpieza de datos, estadística descriptiva y visualización.",Básico,2020,3.8
+5,Applied Machine Learning,"Practical machine learning: supervised models, evaluation and neural networks.",Avanzado,2024,4.0
+6,Marketing Digital desde Cero,"Embudos de conversión, redes sociales y estrategia de contenidos digitales.",Básico,2021,3.7
+7,Diseño de Interfaces UX/UI,"Investigación de usuarios, prototipado y principios de diseño centrado en el usuario.",Intermedio,2022,5.0
+8,Estrategia de Negocios,Herramientas de análisis estratégico y diseño de modelos de negocio.,Intermedio,2019,3.7
+9,Finanzas Personales,"Presupuesto, ahorro e inversión básica para organizar tus finanzas.",Básico,2020,4.0
+10,English for Professionals,"Business English for emails, meetings and presentations at work.",Intermedio,2021,3.3
+11,Ciberseguridad Esencial,Amenazas más comunes y buenas prácticas para proteger tu información.,Básico,2023,4.0
+12,Fundamentos de Redes,"Modelo OSI, TCP/IP y direccionamiento IP para redes de computadores.",Intermedio,2022,4.0
+13,Cálculo para Ingeniería,"Límites, continuidad y derivadas aplicadas a problemas de ingeniería.",Avanzado,2018,5.0
+14,Fotografia Digital Criativa,"Fundamentos de exposição, composição e edição de fotografias.",Básico,2022,5.0
+15,Gestión del Tiempo y Productividad,Técnicas de priorización y hábitos para ser más productivo.,Básico,2023,3.7
